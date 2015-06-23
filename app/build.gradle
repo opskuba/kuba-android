@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0 rc2"
 
     defaultConfig {
-        applicationId "com.example.albert.opskuba"
+        applicationId "com.opskuba"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

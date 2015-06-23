@@ -1,4 +1,4 @@
-package com.example.albert.opskuba;
+package com.opskuba.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
